@@ -51,7 +51,7 @@ public class Main {
         System.out.println("Спорстмен сможет скинуть "+ lossWeightKg + " кг за "+ daysV1 + " дней(я), если в день будет сбрасывать по " + v1 + " грамм," +
                 " и за "+daysV2+" дней(я), если в день будет сбрасывать по "+ v2 + " грамм.");
         System.out.println ("В среднем он сможет сбросить нужный вес за "+ avarageDays +" дней(я).");
-        System.out.println ("  ");
+        System.out.println (" ");
         System.out.println ("   Задание 5.");
 
         int MashaPresentSalaryMonth = 67760;
